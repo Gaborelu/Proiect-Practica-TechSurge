@@ -1,0 +1,10 @@
+{
+  "name": "techsurge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
